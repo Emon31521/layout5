@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    overflow: hidden;
+}
+.logo{
+    background-color: blueviolet;
+    color: chartreuse;
+    float: left;
+    width: 50%;
+    height: 50px;
+}
+.menu{
+    background-color: chocolate;
+    color: deeppink;
+    float: right;
+    width: 50%;
+    height: 50px;
+}
+
+.articles{
+
+}
+.left{
+    width: 20%;
+    height: 500px;
+    background-color: darkorange;
+    float: left;
+
+
+}
+.center{
+    width: 60%;
+    height: 500px;
+    background-color: darkblue;
+    float: left;
+
+}
+.right{
+    width: 20%;
+    height: 500px;
+    background-color: bisque;
+    float: left;
+
+}
+.center-top{
+    height: 30%;
+    background-color: aqua;
+    color: white;
+
+}
+.center_middle{
+    height: 40%;
+    background-color: tomato;
+    color: white;
+
+}
+.center_bottom{
+    height: 30%;
+    background-color: yellow;
+    color: violet;
+
+}
+.middle_left{
+    height: 40%;
+    background-color: violet;
+    float: left;
+    height: 100%;
+
+}
+.middle_righ{
+    height: 40%;
+    background-color: blue;
+    float: right;
+    height: 100%;
+
+
+}
+.center_bottom{
+    height: 20% ;
+    background-color: darkmagenta;
+    float: left;
+    height: 100%;
+
+
+}
+.foot{
+    background-color: brown;
+    color: yellowgreen;
+}
